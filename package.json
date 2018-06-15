@@ -1,0 +1,15 @@
+{
+"name": "hello-world",
+"version": "10.4.1",
+"description": "A sample training on using node js ",
+"main": "script.js",
+"scripts": {
+	"test": "echo \"Error no test specified",
+},
+"repository":{
+	"type":"git",
+	"url":"git+https://github.com/damniha/hello-world.git"
+},
+"author": "",
+"license": "ISC",
+}
